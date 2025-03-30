@@ -24,7 +24,30 @@
 
 - Left medical school to transition into a data-focused career (Jan 2025)
 
-## The Ohio State University (Timeline)
+
+### Relevant Coursework
+
+- Mathematics
+
+  - Calculus III (Math 2153)
+ 
+  - Linear Algebra (Math 2568)
+
+- Statistics
+
+  - 
+- Introduction to Probability for Data Analytics (Stat 3201)
+
+  - [Syllabus](https://stat.osu.edu/courses/stat-3201)
+ 
+- Introduction to Statistical Inference for Data Analytics (Stat 3202) 
+
+- 
+- 
+
+
+
+
 
 - Entered as an Honors Biochemistry major on the pre-med track (July 2020)
 
