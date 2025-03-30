@@ -4,20 +4,19 @@
 
 - I briefly attended medical school before taking a leave to pursue a data-focused career.
 
-
 # 📄 Purpose of This Portfolio
 
 - If you're here, you're likely a recruiting or hiring manager looking for more context on my background. 
 
-- I created this portfolio to share my journey with more context, detail, and flow than a resume allows.
+- I created this portfolio to share my journey with more detail and flow than a resume allows.
 
 - Thank you for taking the time to learn more about me!
 
-# My General Timeline
+# Summary of my Timeline 
 
 - Grew up in Sylvania, OH (Toledo Area)
   
-- Attended The Ohio State University (July 2020 - May 2024)
+- Attended The Ohio State University, where I majored in Biomedical Informatics (Jul 2020 - May 2024)
   
   - Worked as a Research Assistant for [The Buckeye Brain Aging Lab](https://bbal.osu.edu) (Jan 2021 - May 2024)
  
@@ -25,11 +24,74 @@
 
 - Left medical school to transition into a data-focused career (Jan 2025)
 
-# Why I Left Medical School
+## The Ohio State University (Timeline)
 
-- Applying to medical school without taking a gap year is extremely demanding
+- Entered as an Honors Biochemistry major on the pre-med track (July 2020)
 
-  - Financial reasons made a gap year feel unfeasible for me
+- Didn't feel financially secure enough to take a gap year, so I committed to applying striaght to medical school
+
+- Volunteered as a COVID screener at the University of Toledo Glendale Comprehensive Care Clinic (Dec 2020 - Jan 2021)
+
+- Joined the Buckeye Brain Aging Lab (Jan 2021 - May 2024)
+
+- Co-founded biannual college mentorship panels at my former high school (Jan 2021 - Jan 2023)
+
+- Career Accelerator Fund Grant Recipient ($2,500) (May 2021 - August 2021)
+ 
+- Started "Identifying Optimal Acute Aerobic Exercise Intensity for Enhancing Cognition" Research Project (May 2021)
+ 
+- Worked as a student assistant for the Humanities and Cognitive Sciences High School Summer Institute (Aug 2021)
+ 
+- Co-founded [Exercise and Nutrition Journal Club](https://org.osu.edu/enjclub/) (Aug 2021 - Dec 2022)
+
+- Took my first Statistics course (Aug 2021 - Dec 2021)
+
+- Changed my major to Biomedical Informatics (Dec 2021)
+
+  - Initially, wanted to major in Data Analytics still on a pre-med track (would've required 4+ years)
+ 
+  - Designed my own major through the [Personalized Study Program](https://undergrad.osu.edu/majors-and-academics/more-ways-to-explore) and received approval
+ 
+- Volunteered to help organize the Department of Family Medicine's office at the University of Toledo (Dec 2021 - Jan 2022)
+
+- Joined the pre-medicine professional fraternity Phi Delta Epsilon (PhiDE) through a competitive screening process (Jan 2022 - Mar 2023)
+
+- 
+- 
+ 
+
+
+
+Entered as an Honors Biochemistry major on the pre-med track
+
+- Ent
+
+
+# The Ohio State University
+
+- Applying to medical school without taking a gap year is extremely challenging.
+
+- I didn't feel financially secure enough to take a gap year, so I committed to applying straight to medical school.
+
+- I entered OSU as a Biochemistry major.
+
+- After working in the BBAL during the Spring semester of my , I discovered my passion for Statistics and Coding and started to explroe alternative majors.
+
+- I really liked the Data Analytics major, but would've been unable to complete the full major alongside the pre-med requirements.
+
+- I discovered the personalized study program (PSP), which allowed me to design my own interdiscplinary major (effectively letting me take as many data analytics courses as I could will still allowing me to graduate in 4 years)
+
+- 
+
+
+Working in the BBAL sparked my interest in statistics and coding, leading me to explore alternative majors.
+
+
+
+- After joining the BBAL, I 
+
+
+
  
 - I focused entirely on med school, which left little time for career exploration
 
