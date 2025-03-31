@@ -24,16 +24,30 @@
 
 - Left medical school to transition into a data-focused career (Jan 2025)
 
+# Relevant Coursework
 
-### Relevant Coursework
+  ## Mathematics
 
-- Mathematics
+    - MATH 2153: Calculus III
+   
+    - MATH 2568: Linear Algebra
 
-  - Calculus III (Math 2153)
- 
-  - Linear Algebra (Math 2568)
+  ## Statistics
+    
+    - STAT 3201: Introduction to Probability for Data Analytics
+    
+    - STAT 3202: Introduction to Statistical Inference for Data Analytics
 
-- Statistics
+    - STAT 3301: Statistical Modeling for Discovery I
+
+    - STAT 3302: Statistical Modeling for Discovery II
+
+    - STAT 4620: Introduction to Statistical Learning
+
+    STAT 3202: Introduction to Statistical Inference for Data Analytics
+
+
+  ## Computer Science and Engineering 
 
   - 
 - Introduction to Probability for Data Analytics (Stat 3201)
