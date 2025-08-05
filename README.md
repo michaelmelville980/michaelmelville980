@@ -2,7 +2,7 @@
 
 I'm an aspiring self-taught Full-Stack Developer passionate about using technology to improve healthcare. 
 
-# 🌱 About Me
+# 🌱 Backgrou d
 - B.S. Biomedical Informatics, The Ohio State University ('24)
 - 3+ Years Research Experience ([Buckeye Brain Aging Lab](https://u.osu.edu/bbal/))
 - 1 Semester Medical School (UTCOMLS)
