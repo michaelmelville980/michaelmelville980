@@ -10,11 +10,9 @@ I'm an aspiring self-taught Full-Stack Developer passionate about using technolo
 
 # 🛠 Languages & Tools
 
-**Languages:** JavaScript · Python · R · SQL · HTML · CSS
-
-**Frameworks & Libraries:**  React · Node.js · Express · ggplot2 · dplyr
-
-**Tools & Platforms:**  Git · GitHub · VS Code · Figma · PostgreSQL · REDCap
+- **Languages:** JavaScript · Python · R · SQL · HTML · CSS
+- **Frameworks & Libraries:**  React · Node.js · Express · ggplot2 · dplyr
+- **Tools & Platforms:**  Git · GitHub · VS Code · Figma · PostgreSQL · REDCap
 
 # 💻 Featured Projects  
 🚧 *In progress — check back soon!*
