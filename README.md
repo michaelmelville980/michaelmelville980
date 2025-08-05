@@ -1,8 +1,48 @@
-# Hi, I'm Michael Melville 👋
+# Hi there 👋
 
-- I’m a recent Biomedical Informatics graduate from The Ohio State University with 3+ years of research experience. 
+- I'm an aspiring self-taught Full-Stack Developer passionate about using technology to solve real problems in healthcare. 
 
-- I briefly attended medical school before taking a leave to pursue a data-focused career.
+# 🌱 About Me
+
+- B.S. Biomedical Informatics, The Ohio State University ('24)
+
+- 3+ Years Undergraduate Research Experience (Buckeye Brain Aging Lab[https://u.osu.edu/bbal/])
+
+- 1 Semester Medical School (UTCOMLS)
+
+- Self-Taught Full-Stack Development (via The Odin Project)
+
+# 🛠 Technical Skills
+
+### 👨‍💻 Languages  
+HTML · CSS · JavaScript · Python · R · Java
+
+### ⚙️ Frameworks & Libraries  
+React · Express (Node.js) · Prisma ORM · Jest · ggplot2 · dplyr
+
+### 🗄️ Databases & Platforms  
+PostgreSQL · SQL · REDCap · Tableau · Excel
+
+### 🧰 Developer Tools  
+Git · GitHub · npm · Webpack · Vite · Chrome DevTools
+
+### 📊 Data Analysis Techniques  
+Exploratory Data Analysis (EDA) · Hypothesis Testing · Regression · Clustering · Classification
+
+
+
+
+## Languages:
+- JavaScript · Python · R · SQL · HTML · CSS
+
+## Frameworks/Libraries: 
+- React · Node.js · Express · ggplot2 · dplyr
+
+Tools & Platforms:Git · GitHub · VS Code · Postman · Figma · Netlify · Render · PostgreSQL · MongoDB
+
+
+
+
 
 # 📄 Purpose of This Portfolio
 
