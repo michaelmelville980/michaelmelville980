@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a self-taught Full-Stack Developer passionate about using technology to improve healthcare. 
+I'm an aspiring self-taught Full-Stack Developer passionate about using technology to improve healthcare. 
 
 # 🌱 Background
 - B.S. Biomedical Informatics, The Ohio State University ('24)
